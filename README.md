@@ -33,7 +33,6 @@ While full analog signaling is outside the project scope, the Physical Layer is 
 * Digital System Design using Verilog HDL
 * PCIe Gen 6.0 Architecture Concepts
 * Transaction, Data Link, and Physical Layer Modeling
-* FPGA-Oriented Development and Verification
 * High-Speed Digital Communication Principles
 
 ## 🔮 Vision
